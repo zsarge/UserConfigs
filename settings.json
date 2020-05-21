@@ -1,0 +1,72 @@
+{
+    "editor.snippetSuggestions": "top",
+    "workbench.sideBar.location": "right",
+    "C_Cpp.updateChannel": "Insiders",
+    "workbench.colorTheme": "Lukin Theme",
+    "emmet.triggerExpansionOnTab": true,
+    "editor.minimap.enabled": false,
+    "files.autoSave":"onFocusChange",
+    
+    // Ruby support:
+
+    "ruby.useLanguageServer": true,
+    "ruby.lint": {
+      "ruby": true
+    },
+    
+
+    // Multiple commands:
+    "multiCommand.commands": [
+        {
+            "command": "multiCommand.hideWindows",
+            "sequence": [
+                "workbench.action.closePanel",
+                "workbench.action.closeSidebar",
+            ]
+        }
+    ],
+    "spellchecker.ignoreWordsList": [],
+
+    // vim
+    "vim.handleKeys": {
+    "<C-c>": false,
+    "<C-s>": false,
+    "<C-w>": false,
+    "<C-b>": false,
+    "<C-n>": false,
+    "<C-a>": false,
+    "<C-j>": false,
+    "<C-f>": false,
+    "<C-x>": false,
+    "<C-v>": false
+    },
+
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["Z", "Z"],
+            "commands": [
+                ":wq"
+            ]
+        }
+    ],
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.hovers.enabled": false,
+    "workbench.iconTheme": "vscode-icons",
+    "breadcrumbs.enabled": true,
+    "telemetry.enableTelemetry": false,
+    "gitlens.advanced.telemetry.enabled": false,
+    "telemetry.enableCrashReporter": false,
+    "code-runner.enableAppInsights": false,
+    "editor.fontLigatures": true,
+    "editor.fontSize": 15,
+    "editor.fontFamily": "Fira Code Medium",
+    "editor.renderLineHighlight": "gutter",
+    "window.zoomLevel": -1,
+    "bracket-pair-colorizer-2.showHorizontalScopeLine": false,
+    "files.associations": {
+        "*.txt": "plaintext"
+    },
+    "code-runner.ignoreSelection": true,
+    "code-runner.runInTerminal": true
+}
