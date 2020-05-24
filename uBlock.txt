@@ -1,0 +1,892 @@
+! 7/2/2019 https://www.daniweb.com
+www.daniweb.com##.collapsed.font-weight-bold.btn-lg.btn-dw.dw-header.card-header-contrast.card-header.clearfix.d-block
+
+! 9/18/2019 https://quizlet.com
+||quizlet.com/a/i/upgrade/skyscraper_variant.d9bbb35cb602bf1.png$image
+
+! 10/14/2019 https://www.dailyherald.com
+||buy.tinypass.com/checkout/offer/show?displayMode=modal&templateId=OTWB7809OR5N&offerId=OFZ6DOG0Y8YM&formNameByTermId=%7B%7D&hideCompletedFields=true&showCloseButton=false&experienceId=EXOBPSN2WFC1&iframeId=offer-0-hIHbK&url=https%3A%2F%2Fwww.dailyherald.com%2Fnews%2F20190416%2Fwheeling-high-school-mourns-beloved-english-teacher-theater-director&parentDualScreenLeft=0&parentDualScreenTop=0&parentWidth=1418&parentHeight=690&parentOuterHeight=759&aid=6mFfluDnUN&zone=Web&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&lang=en_US&userProvider=piano_id&userToken=&customCookies=%7B%7D&hasLoginRequiredCallback=true&width=1404&_qh=1644255221$subdocument
+www.dailyherald.com##.tp-modal
+www.dailyherald.com##.tp-active.tp-backdrop
+||buy.tinypass.com/checkout/offer/show?displayMode=inline&containerSelector=%23articleBodySubscriptionOffer&templateId=OT7RWYBYS58K&offerId=OFTQ55L6D2QT&formNameByTermId=%7B%7D&hideCompletedFields=true&showCloseButton=false&experienceId=EXZIHBUHQA6I&iframeId=offer-1-xjEZ5&url=https%3A%2F%2Fwww.dailyherald.com%2Fnews%2F20190416%2Fwheeling-high-school-mourns-beloved-english-teacher-theater-director&parentDualScreenLeft=0&parentDualScreenTop=0&parentWidth=1418&parentHeight=690&parentOuterHeight=759&aid=6mFfluDnUN&zone=Web&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&lang=en_US&userProvider=piano_id&userToken=&customCookies=%7B%7D&hasLoginRequiredCallback=true&width=399&_qh=3924337483$subdocument
+
+! 11/19/2019 http://www.stayfocusd.com
+www.stayfocusd.com###ad
+www.stayfocusd.com###donation
+www.stayfocusd.com##input:nth-of-type(3)
+
+! 11/25/2019 https://quizlet.com
+quizlet.com##.BlackFridaySaleBanner
+
+! 12/10/2019 https://www.spanishdict.com
+www.spanishdict.com##.card--2uxCN.card--ItXXY
+www.spanishdict.com##.js-whitelist-header.card--2VQmd.card--ItXXY
+
+! 12/15/2019 https://mybirthday.ninja
+mybirthday.ninja###Ufc89sMQfYZx1lnKlCN4UBYliUNEhv
+mybirthday.ninja###r5dayAKR3hPBRBWYqOidkMwtIA5ciP
+
+! 12/16/2019 https://www.vox.com
+www.vox.com##.adblock-whitelist-messaging__article-wrapper
+
+! 1/12/2020 https://quizlet.com
+quizlet.com##.SiteHeaderChiclet > div
+quizlet.com##.SiteHeaderChiclet
+
+! 1/12/2020 http://color.aurlien.net
+color.aurlien.net##a
+
+! 1/13/2020 https://www.webqc.org
+www.webqc.org###toplink
+
+! 1/13/2020 https://namechk.com
+||namechk.com/assets/dotOnline_Ad1-e6fb665e9e7f70e64c6d56562535fee868de14a1a6859109211709caea709c43.gif$image
+namechk.com##section.banner:nth-of-type(2)
+
+! 1/15/2020 https://www.washingtonpost.com
+www.washingtonpost.com##.iqmj_dpblatoh_tb
+
+! 1/21/2020 https://quizlet.com
+quizlet.com##div.SiteHeader-userDropdownOptionSection:nth-of-type(3) > .UIMenuItem > .UILink > .UIMenuItem-inner
+
+! 1/26/2020 https://www.scientificamerican.com
+www.scientificamerican.com##.container.newsletter-promo
+
+! 1/26/2020 https://www.limevpn.com
+www.limevpn.com##.eqgwjwo0.intercom-a30bki.intercom-borderless-frame
+
+! 1/26/2020 https://www.cnbc.com
+www.cnbc.com##.MostPopular-taboolaContainer.MostPopular-wrapper
+www.cnbc.com###Placeholder-ArticleBody-Video-106283429 > .PlaceHolder-inactive.PlaceHolder-endCard
+www.cnbc.com###InlineVideo-0 > .InlineVideo-wrapper > span > .InlineVideo-inlineBackgroundImageContainer > span:nth-of-type(2) > .PlayButton-container.undefined
+www.cnbc.com###InlineVideo-0 > .InlineVideo-wrapper > .InlineVideo-videoFooter
+||image.cnbcfm.com/api/v1/image/106283772-15756778386ED3-MM-F-BLOCK-120619.jpg?v=1575677838&w=750&h=422$image
+www.cnbc.com###InlineVideo-0 > .InlineVideo-wrapper > span > .InlineVideo-inlineBackgroundImageContainer
+www.cnbc.com###InlineVideo-0 > .InlineVideo-wrapper
+
+! 1/26/2020 http://www.openculture.com
+www.openculture.com##.rxn-modal-message
+
+! 1/30/2020 https://www.washingtonpost.com
+www.washingtonpost.com##div:nth-of-type(3) > span
+www.washingtonpost.com##.b_kajnhco
+||washingtonpost.com/wp-stat/pwapi/prod/*
+
+! 1/30/2020 https://css-tricks.com
+css-tricks.com###conditional-message
+
+! 2/3/2020 https://www.washingtonpost.com
+www.washingtonpost.com##.w__jkjwkvn_uqsjq > div
+www.washingtonpost.com##.w__jkjwkvn_uqsjq
+
+! 2/3/2020 https://www.symbolab.com
+www.symbolab.com##.tooltipster-content
+www.symbolab.com##.tooltipster-box
+
+! 2/3/2020 https://en.wikipedia.org
+||upload.wikimedia.org/wikipedia/commons/3/3b/Wiki-Loves-Love-2020-Folklore-banner-logo.png$image
+en.wikipedia.org##.wll-logo
+||upload.wikimedia.org/wikipedia/commons/thumb/0/00/WLL-Banner-Bg-2020.jpg/865px-WLL-Banner-Bg-2020.jpg$image
+en.wikipedia.org##.wll-image
+en.wikipedia.org###wll2020
+
+! 2/4/2020 https://en.wikipedia.org
+en.wikipedia.org##.cbnnr-main
+||googlesyndication.com
+
+! 2/4/2020 https://www.newyorker.com
+www.newyorker.com##.paywall-bar--expanded-content
+www.newyorker.com##.paywall-bar__expanded.paywall-bar-wrapper
+
+! 2/4/2020 https://www.mnn.com
+www.mnn.com##.signup_modal_heading
+www.mnn.com##.in.fade.modal-backdrop
+||media.mnn.com/assets/images/2019/01/newsletter-modal-background.png$image
+www.mnn.com##.signup_modal_inner_box.t-signup-earth.c-signup--modal.c-signup
+www.mnn.com###modal-newsletter-combo
+
+! 2/5/2020 https://www.theguardian.com
+www.theguardian.com###js-subscription-banner-site-message
+
+! 2/6/2020 https://blog.hubspot.com
+blog.hubspot.com##.leadinModal-overlay
+blog.hubspot.com##.leadin-preview-wrapper
+blog.hubspot.com##.leadin-footer-wrapper
+||blog.hubspot.com/hs-fs/hub/53/hub_generated/resized/882a571a-deee-40df-b8f0-9ba270e2339e.png$image
+blog.hubspot.com###leadinModal-74808
+
+! 2/6/2020 https://www.lifehack.org
+www.lifehack.org###cta35040
+www.lifehack.org###section256960-first-overlay
+www.lifehack.org###element740695-content
+www.lifehack.org###section256958-first-overlay
+www.lifehack.org###section256958-column-first
+www.lifehack.org###section256959-first-overlay
+www.lifehack.org###section256959-column-first
+www.lifehack.org###section256960-column-first
+www.lifehack.org###section255686-first-overlay
+www.lifehack.org###section255686-column-first
+www.lifehack.org###section255716-first-overlay
+www.lifehack.org###section255717-first-overlay
+www.lifehack.org###section255716-column-first > .cf-cta-item-container
+www.lifehack.org###section255716-column-first
+www.lifehack.org###section255717-column-first
+www.lifehack.org###section255718-first-overlay
+www.lifehack.org###section255718-column-first
+www.lifehack.org###section255324-first-overlay
+www.lifehack.org###section255324-column-first
+www.lifehack.org###element740705
+www.lifehack.org###section273304-first-overlay
+www.lifehack.org###section273304-column-first
+
+! 2/7/2020 https://www.theguardian.com
+www.theguardian.com##.site-message--banner.site-message--engagement-banner.js-site-message.site-message
+
+! 2/7/2020 https://www.vox.com
+||cdn.concert.io/lib/adblock/vox.html$subdocument
+www.vox.com##.adblock-whitelist-messaging__wrapper
+
+! 2/10/2020 https://www.spanishdict.com
+www.spanishdict.com##.js-whitelist-header._2VQmdM2G.ItXXYirf
+www.spanishdict.com###whitelist-sidebar
+www.spanishdict.com##._1-zxelzB > .ItXXYirf
+
+! 2/10/2020 https://flanimals.fandom.com
+flanimals.fandom.com##.banner-notifications-placeholder
+
+! 2/10/2020 https://www.sparknotes.com
+www.sparknotes.com##.js-global-banner.global-banner
+
+! 2/11/2020 https://www.protocol.com
+www.protocol.com##.sticky-target
+www.protocol.com##.share-panel.widget__shares
+www.protocol.com##h4
+www.protocol.com##div.horizontal-rule:nth-of-type(2)
+www.protocol.com##div.horizontal-rule:nth-of-type(3)
+
+! 2/11/2020 https://www.theguardian.com
+www.theguardian.com##.js-aside-slot-container.aside-slot-container
+www.theguardian.com##.hide-until-mobile.new-header__cta-bar
+www.theguardian.com##.contributions__buttons
+www.theguardian.com##.contributions__highlight
+www.theguardian.com###series > .fc-container__inner
+www.theguardian.com###series
+www.theguardian.com###more-in-section
+www.theguardian.com##.contributions__epic--2020-01-23_US_Epic_EOYquote__with_articlecount-v1_NoQuote.contributions__epic--2020-01-23_US_Epic_EOYquote__with_articlecount.contributions__epic
+
+! 2/12/2020 https://www.sparknotes.com
+www.sparknotes.com##div.layout-wrapper-2018__column--right-rail__chunk:nth-of-type(3)
+www.sparknotes.com##.more-like-this
+
+! 2/12/2020 https://html.com
+html.com##.pm-dialog
+
+! 2/12/2020 https://www.virgin.com
+www.virgin.com##.underlay
+www.virgin.com##.modal-body
+www.virgin.com##.modal
+www.virgin.com###popover-modal
+
+! 2/12/2020 https://elderhs.campuswell.com
+elderhs.campuswell.com###myModal
+elderhs.campuswell.com##.td-ss-main-sidebar > aside.widget_text.widget.td_block_template_1:nth-of-type(2) > .textwidget
+
+! 2/12/2020 https://www.youtube.com
+www.youtube.com###ticket-shelf > .ytd-watch-flexy.style-scope
+
+! 2/12/2020 https://www.reddit.com
+www.reddit.com##._24moloPNpotQ_Incvvxwtt.jEUbSHJJx8vISKpWirlfx
+www.reddit.com###header-quicklinks-rpan
+
+! 2/12/2020 https://www.youtube.com
+www.youtube.com##.ytd-rich-metadata-renderer.style-scope.yt-simple-endpoint
+
+! 2/13/2020 https://sciencing.com
+sciencing.com##.amp-interactive
+||videocdn.studiod.cc/videos/1cab50ef-26c9-4011-b680-6c8ccb1e4edc.mp4$media
+sciencing.com##.akamai-layer.akamai-video
+sciencing.com###jw-player
+sciencing.com###jwplayerContainer
+sciencing.com##body > .article-page-container > .article-body-container > .article-right-col-container > .sticky-container
+sciencing.com##.amp-bg.amp-menu.amp-context-menu
+sciencing.com###jwplayer-section
+sciencing.com##.thumbs-container
+sciencing.com##body > .article-page-container > .article-body-container > .article-main-col-container > .article-content-container > .article-content-center > .widget-slider-rcp
+sciencing.com##div.partial-container:nth-of-type(4) > .article-page-container > .article-body-container > .article-right-col-container > .sticky-container > .right-rail-promo
+
+! 2/13/2020 http://www.usccb.org
+www.usccb.org##.secrightColumn.rightColumn
+
+! 2/13/2020 https://www.youtube.com
+||www.gstatic.com/youtube/img/promos/growth/b4679ce8aeacf18fc02523d86e54112fbb119f787e1314f696de76e82440e22c_384x384.png$image
+
+! 2/13/2020 https://www.convertunits.com
+www.convertunits.com###rightcontent
+
+! 2/13/2020 https://www.androidheadlines.com
+||cdn.androidheadlines.com/wp-content/uploads/2019/07/AH-GiveAway-300x150-1.jpg$image
+||cdn.androidheadlines.com/wp-content/uploads/2019/07/AH-DonateNow-900x250.jpg$image
+www.androidheadlines.com##.pb-2.h3
+www.androidheadlines.com##.post-share
+www.androidheadlines.com##.menu-footer-col-4.pb-3.pb-md-0.col-md-3.col-sm-6.col-12
+
+! 2/13/2020 https://www.makeuseof.com
+www.makeuseof.com##div.article-template-hero.infinite-post.single-post:nth-of-type(1) > .container-wrap > .layout-block > .rte.single-post-content > .post-body > a.visible.link-callout:nth-of-type(1)
+www.makeuseof.com##div.article-template-hero.infinite-post.single-post:nth-of-type(1) > .container-wrap > .layout-block > .rte.single-post-content > .post-body > a.visible.link-callout:nth-of-type(2)
+
+! 2/13/2020 https://www.convertunits.com
+www.convertunits.com##div:nth-of-type(6)
+
+! 2/14/2020 https://quizlet.com
+quizlet.com##div.SiteFooter-flexItem:nth-of-type(3) > .UIColumn--m6.UIColumn--d12.UIColumn > div.SiteFooter-sectionLink:nth-of-type(2) > .UILink--inverted.UILink
+||quizlet.com/a/i/upgrade/skyscraper_variant.d9bbb35cb602bf1.png$image
+quizlet.com##.SiteAd-houseSkyscraper
+quizlet.com##.SetPage-inferiorAdz.SetPage-adz
+quizlet.com##.SetPage-superiorAdz.SetPage-adz
+
+! 2/14/2020 https://www.spanishdict.com
+www.spanishdict.com##._2HEup1Nl
+www.spanishdict.com##.home-fluencia-variation2.home-fluencia.card
+www.spanishdict.com##._2DQ-84Gw.ReactModal__Overlay--after-open.ReactModal__Overlay
+
+! 2/14/2020 https://searchengineland.com
+searchengineland.com##.hidden-sm.hidden-xs > .panel > .panel-body
+searchengineland.com##.mb2.row.events > .mb2
+searchengineland.com##.mb2.row.events > div:nth-of-type(2)
+searchengineland.com##.right-rail-content
+
+! 2/15/2020 https://www.youtube.com
+www.youtube.com##.ytd-mealbar-promo-renderer.style-scope
+
+! 2/16/2020 https://www.itprotoday.com
+www.itprotoday.com##.gdrp-popup-content
+www.itprotoday.com##.js-lazy-pager-content.article-standalone.no-feat-img.node-type-article.article-38155.article-type-article.big-article > .related-articles-row.row
+www.itprotoday.com##.js-lazy-pager-content.with-feat-img.node-type-article.article-142333.article-type-article.big-article > .related-articles-row.row
+www.itprotoday.com###newsletter-signup-load
+
+! 2/16/2020 https://musescore.com
+musescore.com##section._2OO_c.I2ImY:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1)
+
+! 2/17/2020 https://en.wikipedia.org
+en.wikipedia.org###wm2020scholarcfp-content
+en.wikipedia.org###wm2020scholarcfp
+
+! 2/17/2020 https://pusher.com
+pusher.com###cookieblock__banner__wrapper
+
+! 2/17/2020 https://www.usatoday.com
+www.usatoday.com###gnt_atomsnc > .hydrated
+www.usatoday.com###gnt_atomsnc
+||app.stitcher.com/splayer/f/36535?el=1&refid=stpr$subdocument
+www.usatoday.com##.gnt_em_stc_ph
+www.usatoday.com##.gnt_em_stc.gnt_em
+www.usatoday.com##.gnt_ar_xb
+
+! 2/17/2020 https://www.coursehero.com
+www.coursehero.com##.ch-aaq-widget-tab
+www.coursehero.com##.ch-aaq-widget-toast
+
+! 2/17/2020 https://www.softwaretestinghelp.com
+www.softwaretestinghelp.com###custom_html-3 > .custom-html-widget.textwidget
+www.softwaretestinghelp.com###custom_html-3
+www.softwaretestinghelp.com###custom_html-14
+
+! 2/17/2020 https://ptable.com
+ptable.com###OarJarsText
+
+! 2/18/2020 https://www.laptopmag.com
+www.laptopmag.com##.jw-reset.jw-video
+www.laptopmag.com##.carousel__title--black-logo.carousel__title
+www.laptopmag.com##.jw-reset.jw-media
+www.laptopmag.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
+www.laptopmag.com##.jw-reset.jw-wrapper
+www.laptopmag.com###botr_MOUpR89J_JEMVeU93_div > .jw-reset.jw-aspect
+www.laptopmag.com###botr_MOUpR89J_JEMVeU93_div
+
+! 2/18/2020 https://www.gradesaver.com
+www.gradesaver.com##.sticky.l--contentAdRail
+www.gradesaver.com##.contentHeader > .section__purchase > .button--purchase
+
+! 2/18/2020 https://variety.com
+variety.com##.c-widget--must-read.c-widget > .c-widget__content
+variety.com##.c-widget--most-viewed.c-widget
+variety.com##.c-widget--must-read.c-widget > .c-heading--widget.c-heading
+variety.com##.c-widget--newsletter.c-widget > .c-widget__content
+variety.com##.c-widget--newsletter.c-widget > .c-heading--widget.c-heading
+||www.iheart.com/podcast/139-big-ticket-28955447/?embed=true$subdocument
+variety.com##.l-more-from--vertical.l-more-from
+variety.com##section.l-more-from:nth-of-type(2)
+variety.com##.pmc-contextual-player
+
+! 2/18/2020 https://www.dailymail.co.uk
+www.dailymail.co.uk##.dms-puff
+www.dailymail.co.uk##.button-share-facebook > span
+www.dailymail.co.uk##.has-button-share.floating-buttons
+||videos.dailymail.co.uk/video/mol/2020/02/18/8548413473758163427/640x360_MP4_8548413473758163427.mp4$media
+www.dailymail.co.uk###vjs_video_3
+www.dailymail.co.uk###v-8548413473758163427
+www.dailymail.co.uk###p-1005
+||i.dailymail.co.uk/i/pix/promoboxes/iphone_ad_308x111.jpg$image
+www.dailymail.co.uk###p-1651
+www.dailymail.co.uk##div:nth-of-type(9) > .promo_2q5iA.narrow_26l3g.previewWrapper_CB2Od > .smallTabs_1uhv8.appWrapper_1kWlX > .app_2v8Kn > .content_1tsiE
+www.dailymail.co.uk##div:nth-of-type(9) > .promo_2q5iA.narrow_26l3g.previewWrapper_CB2Od > .smallTabs_1uhv8.appWrapper_1kWlX > .app_2v8Kn > .heading_VJClk
+www.dailymail.co.uk##div:nth-of-type(7) > .promo_2q5iA.narrow_26l3g.previewWrapper_CB2Od > .smallTabs_1uhv8.appWrapper_1kWlX > .app_2v8Kn > .content_1tsiE
+www.dailymail.co.uk##div:nth-of-type(7) > .promo_2q5iA.narrow_26l3g.previewWrapper_CB2Od > .smallTabs_1uhv8.appWrapper_1kWlX > .app_2v8Kn > .heading_VJClk
+www.dailymail.co.uk##div:nth-of-type(7) > .promo_2q5iA.narrow_26l3g.previewWrapper_CB2Od > .smallTabs_1uhv8.appWrapper_1kWlX > .app_2v8Kn > .viewMore_1ibfc
+www.dailymail.co.uk##.beta > div:nth-of-type(7)
+www.dailymail.co.uk##.beta > div:nth-of-type(9)
+www.dailymail.co.uk##.cleared.puffpastel-alt1.puffpastel
+www.dailymail.co.uk###v-5475519719654275908
+www.dailymail.co.uk##.beta
+www.dailymail.co.uk##.vjs-user-inactive.vjs-paused.video-js.vjs-default-skin.vjs-controls-enabled.vjs-visually-ready.vjs-has-started
+
+! 2/19/2020 https://www.forbes.com
+www.forbes.com###brightcove_perform_0
+
+! 2/19/2020 https://www.thegeoexchange.org
+||www.thegeoexchange.org/chemistry/images/left-bg.jpg$image
+www.thegeoexchange.org##li:nth-of-type(2) > ul
+||www.thegeoexchange.org/chemistry/images/subtitle-bar-left.jpg$image
+www.thegeoexchange.org##li:nth-of-type(2) > h2
+www.thegeoexchange.org###cse-search-box > div
+
+! 2/19/2020 https://www.similarweb.com
+www.similarweb.com##.cookies-notification
+
+! 2/19/2020 https://www.androidcentral.com
+www.androidcentral.com##.visible--tablet.hidden.sidebar__section--shrink.sidebar__section
+www.androidcentral.com###pushwooshBellWidget
+www.androidcentral.com##.share
+
+! 2/19/2020 https://www.forbes.com
+www.forbes.com##sharing > ul
+www.forbes.com##.adblock-unused.bta
+www.forbes.com##.adblock-unused.btf
+www.forbes.com##.advertisement-labeling
+
+! 2/20/2020 https://www.mirror.co.uk
+www.mirror.co.uk##.secondary.related-column
+
+! 2/20/2020 https://publicdomainreview.org
+publicdomainreview.org##.expanded.cookie-banner
+publicdomainreview.org##.support-button
+publicdomainreview.org##.expanded.exit-modal__shade
+
+! 2/20/2020 https://www.rock-paper-scissors-game.com
+www.rock-paper-scissors-game.com##.social
+
+! 2/20/2020 https://www.reddit.com
+www.reddit.com##.premium-banner
+
+! 2/22/2020 https://nymag.com
+nymag.com##.package-navigation-fixed.hide-on-page-load.package-navigation
+nymag.com##.multi-children.spacer
+nymag.com##.tertiary > .disclaimer-text_revenue
+
+! 2/22/2020 https://www.amazon.com
+www.amazon.com##.a-declarative.a-modal-scroller
+www.amazon.com###a-popover-lgtbox
+||images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/images/creative/TM-205_James_Taylor_Launch_ILM_650x45_LF_CTA._CB424234731_.jpg$image
+
+! 2/25/2020 http://www.scp-wiki.net
+www.scp-wiki.net##.units
+www.scp-wiki.net###footer-bar
+
+! 2/25/2020 https://www.thegeoexchange.org
+www.thegeoexchange.org##li > ul
+www.thegeoexchange.org##li > h2
+
+! 2/25/2020 https://www.yahoo.com
+www.yahoo.com###applet_p_50000399 > div > div
+www.yahoo.com###Main
+
+! 2/26/2020 https://theculturetrip.com
+theculturetrip.com##.eiqzRH.list-wrapperstyled__ListWrapper-sc-1dkzife-0
+theculturetrip.com##.flipboard-remove.kSguUK.asidestyled__Aside-sc-17lxbdr-0
+
+! 2/26/2020 https://www.maketecheasier.com
+www.maketecheasier.com###secondary
+www.maketecheasier.com##.post-action-list.list-inline
+
+! 2/27/2020 https://ifstudies.org
+ifstudies.org##.alrightsans.share
+ifstudies.org##.darker-gray-bg.highlights > ul
+ifstudies.org##.dark-gray-bg.hero-title
+
+! 2/28/2020 https://www.mixbook.com
+www.mixbook.com##.Pm
+www.mixbook.com##.Om
+www.mixbook.com##.ni
+www.mixbook.com##.fg
+
+! 2/28/2020 https://www.windowscentral.com
+www.windowscentral.com##.js-share-expand.share__link
+www.windowscentral.com##.share__item--more.share__item
+www.windowscentral.com##.share__item--email.share__item > .share__link
+www.windowscentral.com##.share__item--email.share__item
+www.windowscentral.com##.share__item--google-plus.share__item > .share__link
+www.windowscentral.com##.share__item--google-plus.share__item
+www.windowscentral.com##.share__item--twitter.share__item > .share__link
+www.windowscentral.com##.share__item--twitter.share__item
+www.windowscentral.com##.fa-fw.fa-lg.fa-facebook-f.fab
+www.windowscentral.com##.share__item--facebook.share__item > .share__link
+www.windowscentral.com##.share__item--facebook.share__item
+www.windowscentral.com##div.row--no-wrap.row:nth-of-type(1) > .col-1of3\@tablet.sidebar--fixed.col-3of3.sidebar > .visible--tablet.hidden.sidebar__section--shrink.sidebar__section
+www.windowscentral.com##div.narrow.article-body__section--narrow.article-body__section:nth-of-type(2) > .no-amazon.article-body__suppl_content--inline-cta-ad.article-body__suppl_content--inline.article-body__suppl_content > p
+www.windowscentral.com##div.narrow.article-body__section--narrow.article-body__section:nth-of-type(3) > .no-amazon
+
+! 2/29/2020 https://sourceforge.net
+sourceforge.net###newsletter-floating
+
+! 2/29/2020 https://www.howtogeek.com
+www.howtogeek.com##.email-overlay
+www.howtogeek.com##.overlay-inner
+
+! 2/29/2020 https://www.elegantthemes.com
+www.elegantthemes.com##.accent-red.inline-button.primary-button.button
+www.elegantthemes.com##.promo-slide-in-content-inner
+www.elegantthemes.com##.card-featured.accent-pink.promo-slide-in
+
+! 2/29/2020 https://colorswall.com
+colorswall.com##.user-el
+
+! 2/29/2020 https://alvinalexander.com
+alvinalexander.com###lhs-books-block
+alvinalexander.com##.content-inner-left
+
+! 2/29/2020 https://www.zdnet.com
+www.zdnet.com##section.related-stories.module:nth-of-type(1)
+www.zdnet.com###newsletter-widget-2698 > .keepUp
+www.zdnet.com##section.related-stories.module:nth-of-type(3)
+www.zdnet.com##.alignRight.relatedContent > .heading
+www.zdnet.com##.alignRight.relatedContent > ul
+www.zdnet.com##p:nth-of-type(4)
+
+! 2/29/2020 https://www.thewindowsclub.com
+www.thewindowsclub.com##.shareaholic-
+||cdn5.anyclip.com/AW_EWUvEZK25gUZWX-K-/1579547287143_480x270_clip.mp4?wid=0011r00002JOYIf_932$media
+www.thewindowsclub.com###ac-lre-vjs-SJFTqo6dH5OYWg2JcfLdMlEfMk9HHWJj
+www.thewindowsclub.com##.q2w3-fixed-widget-container.sidebar
+
+! 2/29/2020 https://www.groovypost.com
+www.groovypost.com##.cookie-notice-container
+www.groovypost.com##.relative.left.feat-widget-in
+www.groovypost.com##.relative.left.feat-widget-cont
+
+! 3/1/2020 https://www.nme.com
+www.nme.com##.td-is-sticky.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_98_fe8.vc_column > .wpb_wrapper
+
+! 3/1/2020 https://www.edureka.co
+||d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/themes/edu-new/img/newsletter-bg.svg$image
+www.edureka.co##.slideup.newsletter-section
+www.edureka.co##.webinar-box-title
+
+! 3/4/2020 https://www.spanishdict.com
+www.spanishdict.com##.gf-icon.gf-Bobblehead-icon
+
+! 3/5/2020 https://www.sciencefocus.com
+||bbcsciencefocusmagazine.zeddit.com/Widget/EmbedWidgetButton?wid=1349&dnt=0&brandId=894&isLocal=0&dtid=D200305oBbSh57y9QziDsj4QJEDOytoyJXE9aONUFnjjVXtlww%3D&region=US$subdocument
+www.sciencefocus.com##.zit-widget-wrapper--row.zit-widget-wrapper
+www.sciencefocus.com##.widget-newsletter-sign-up--vertical.widget-newsletter-sign-up
+www.sciencefocus.com##.article-list--sidebar.article-list
+
+! 3/6/2020 https://socialblade.com
+socialblade.com###rpB0obZkpG8 > div
+||i.ytimg.com/vi/rpB0obZkpG8/mqdefault.jpg$image
+socialblade.com###rpB0obZkpG8
+socialblade.com###Semaphore-Title
+
+! 3/8/2020 https://refind.com
+refind.com##.m2.l3.xl4.hero-item.feed-item
+
+! 3/8/2020 https://apartmentprepper.com
+apartmentprepper.com##.fca_eoi_featherlight.featherlight
+apartmentprepper.com##.the_champ_bottom_sharing.the_champ_hide_sharing.the_champ_vertical_sharing.the_champ_sharing_container
+
+! 3/9/2020 https://www.searchenginejournal.com
+www.searchenginejournal.com###sej-popup-wrapper
+www.searchenginejournal.com###cooknote-div
+www.searchenginejournal.com###sharebtn-30725
+||cdn.searchenginejournal.com/wp-content/uploads/2020/03/td-2x-5e6600fecf0ae.webp$image
+www.searchenginejournal.com##.sej_tk_4 > .aside-text.avert-text
+www.searchenginejournal.com###SEJ_300x250_Sidebar0-parent
+||cdn.searchenginejournal.com/wp-content/uploads/2020/03/greg-2x-5e5e125621905.jpg$image
+www.searchenginejournal.com##.text-center.sej-sidebar.col-md-4
+||cdn.searchenginejournal.com/wp-content/uploads/2020/03/nav-*x-5e66010*.gif$image
+||cdn.searchenginejournal.com/wp-content/uploads/2020/03/nav-*x-5e66010*.gif$image
+www.searchenginejournal.com##.text-center.margin-bottom-20.avert-text
+
+! 3/10/2020 https://triblive.com
+triblive.com##.heateor_sss_bottom_sharing.heateor_sss_vertical_sharing.heateor_sss_sharing_container
+triblive.com###csframe_2535_0
+
+! 3/10/2020 https://www.dailymail.co.uk
+www.dailymail.co.uk###v-8715097389291424858
+www.dailymail.co.uk###articleIconLinksContainer > ul
+||i.dailymail.co.uk/i/furniture/facebook/DailyMail/DailyMail.png$image
+www.dailymail.co.uk##.floating-buttons
+www.dailymail.co.uk###v-8713632898068073606
+www.dailymail.co.uk###js-article-text > div:nth-of-type(3) > div:nth-of-type(2)
+
+! 3/10/2020 https://knowyourmeme.com
+knowyourmeme.com##.current.blocker.jquery-modal
+knowyourmeme.com##.floating-share-bar
+
+! 3/11/2020 https://www.spanishdict.com
+www.spanishdict.com###sidebar-container-video
+www.spanishdict.com##.js-whitelist-header._16XsiwHN.ItXXYirf
+www.spanishdict.com##div._17uH619R:nth-of-type(6)
+www.spanishdict.com##._1aZRWSZg
+
+! 3/11/2020 https://www.facebook.com
+www.facebook.com###u_0_19
+
+! 3/11/2020 https://techcrunch.com
+techcrunch.com##.icon--white.icon--share.icon
+techcrunch.com##.icon--white.icon--linkedin.icon
+techcrunch.com##.icon--white.icon--facebook.icon > path
+techcrunch.com##.icon--white.icon--twitter.icon
+techcrunch.com##.icon--white.icon--mail.icon
+techcrunch.com##.icon--white.icon--facebook.icon
+
+! 3/11/2020 https://www.techradar.com
+www.techradar.com###sidebar
+
+! 3/12/2020 https://www.smithsonianmag.com
+www.smithsonianmag.com##.sidebar
+
+! 3/12/2020 https://www.speakerscorner.co.uk
+www.speakerscorner.co.uk##.enquiry-cta
+www.speakerscorner.co.uk##.social--share.social
+
+! 3/12/2020 http://sixminutes.dlugan.com
+sixminutes.dlugan.com###side-feature-articles
+sixminutes.dlugan.com##div.sidebox:nth-of-type(2) > h3
+sixminutes.dlugan.com###sidebar
+sixminutes.dlugan.com##.a2a_default_style.a2a_floating_style.a2a_kit_size_32.a2a_kit
+
+! 3/13/2020 https://quizlet.com
+quizlet.com##.ModeLayout-ad
+
+! 3/13/2020 https://www.toledoblade.com
+www.toledoblade.com##.pgevoke-contentarea-socialbuttons
+
+! 3/17/2020 https://www.stripes.com
+www.stripes.com###rail
+
+! 3/17/2020 https://www.duolingo.com
+www.duolingo.com##div.a5SW0:nth-of-type(6)
+www.duolingo.com##._25sFh.-X3R5
+
+! 3/17/2020 https://www.khanacademy.org
+www.khanacademy.org##._8wtbgmv
+
+! 3/17/2020 https://www.washingtonpost.com
+||pwapi.washingtonpost.com^
+
+! 3/17/2020 https://www.coursereport.com
+www.coursereport.com##.is-visible.match-popup
+
+! 3/17/2020 https://realpython.com
+||img.realpython.net/7ddbb31a5dbedecee07b41fe5413748d$image
+realpython.com##.article-body > .p-0.sidebar-module-inset.sidebar-module > div > .rpad
+realpython.com##.article-body > .p-0.sidebar-module-inset.sidebar-module > div > div:nth-of-type(1)
+||img.realpython.net/7280dbf30745e8e6d77d111f8b3be9d2$image
+realpython.com##.col-lg-4.col-md-7 > .p-0.sidebar-module-inset.sidebar-module > div > .rpad
+realpython.com##.col-lg-4.col-md-7 > .p-0.sidebar-module-inset.sidebar-module > div > div:nth-of-type(1)
+realpython.com##.bg-secondary.mb-3.card > .card-body
+||img.realpython.net/257f65e32c1713399c59dacea36eb818$image
+
+! 3/18/2020 https://www.duolingo.com
+www.duolingo.com##._1bv61
+
+! 3/19/2020 https://www.duplichecker.com
+www.duplichecker.com##div.text-center.aadd_box1584633161:nth-of-type(4)
+www.duplichecker.com##div.text-center.aadd_box1584633161:nth-of-type(7)
+www.duplichecker.com##.sec_imp.text-center.col-md-12 > .text-center.aadd_box1584633161
+www.duplichecker.com##.p-2.mb20.p8.text-center.search-panel-sec
+www.duplichecker.com##.mt-3.p-2.mt15.p8.text-center.search-panel-sec
+www.duplichecker.com##div.text-center.aadd_box1584633218:nth-of-type(1)
+www.duplichecker.com##div.text-center.aadd_box1584633218:nth-of-type(5)
+www.duplichecker.com##div.text-center.aadd_box1584633218:nth-of-type(4)
+www.duplichecker.com##div.text-center.aadd_box1584633218:nth-of-type(7)
+||www.duplichecker.com/6c2124a/c3.png$image
+||www.duplichecker.com/6c2124a/c4.png$image
+||www.duplichecker.com/6c2124a/c2.png$image
+||www.duplichecker.com/6c2124a/c2.png$image
+||www.duplichecker.com/6c2124a/c4.png$image
+
+! 3/20/2020 http://countwordsworth.com
+countwordsworth.com###fb-like-wrapper
+countwordsworth.com##.twitter-wrapper
+
+! 3/21/2020 https://www.scientificamerican.com
+www.scientificamerican.com##.ftprod__lt-module
+
+! 3/21/2020 https://www.thesaurus.com
+www.thesaurus.com##.e1cs52m20.css-17uty8r-ModalContainer.dcom-modal-container
+www.thesaurus.com##.e1c17zzu1.css-5esj6s-ShowOn
+
+! 3/23/2020 https://www.webmd.com
+www.webmd.com###webmdHoverOverlay
+||img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/newsletters/overlay/nl-hover-humanvsgems.jpg$image
+www.webmd.com###webmdHoverLoadedContent
+
+||google.com##.ads-ad
+
+! 3/23/2020 https://fortune.com
+fortune.com##.franchiseDataStoreCta__wrapper--1P7It
+
+! 3/24/2020 https://blog.rosettastone.com
+blog.rosettastone.com##.et_social_mobile_on.et_social_sidebar_flip.et_social_rectangle.et_social_animated.et_social_slideright.et_social_visible_sidebar.et_social_sidebar_networks > .et_social_icons_container > .et_social_facebook > .et_social_share
+blog.rosettastone.com##.et_social_mobile_on.et_social_sidebar_flip.et_social_rectangle.et_social_animated.et_social_slideright.et_social_visible_sidebar.et_social_sidebar_networks
+blog.rosettastone.com##.sidebar.main-sidebar.col-md-3
+
+! 3/24/2020 https://www.webopedia.com
+www.webopedia.com##.subscribe_webopedia_weekly
+www.webopedia.com###article_right_column
+www.webopedia.com###searchWidget
+www.webopedia.com##.oas_box_btns_lfr.oas_box
+
+! 3/25/2020 https://www.nytimes.com
+www.nytimes.com###gateway-content
+www.nytimes.com##.css-1bd8bfl
+
+! 3/30/2020 https://www.duolingo.com
+www.duolingo.com##.t-hzx._3C_dL
+
+! 3/31/2020 https://mydailyspanish.com
+mydailyspanish.com##.right.sAs
+
+! 4/1/2020 https://thehill.com
+thehill.com##.view-dom-id-f9d50e4bd2b80475aa970d292a7d005d.view-display-id-articles_just_in.view-id-articles.view-articles.view
+thehill.com##.sidebar.column.region-sidebar-second.region
+
+! 4/1/2020 https://www.pbs.org
+www.pbs.org###survey-modal
+www.pbs.org##.in.fade.modal-backdrop
+www.pbs.org###newsletter-modal
+www.pbs.org##.icon-follow-icons-white.follow-icon.js-has-submenu
+www.pbs.org###flyout-share
+www.pbs.org##.social-icons--small.social-icons > .social-icons__list
+
+! 4/2/2020 https://www.ranker.com
+www.ranker.com##div.pointer.\$link.block.relative.trendingRightRail__item:nth-of-type(2)
+www.ranker.com##.robotoC.flex.rightRail__contentBlockTitle
+www.ranker.com##.-first.pointer.\$link.block.relative.trendingRightRail__item
+www.ranker.com##.rightRail__contentBlockItems
+www.ranker.com###listStats
+www.ranker.com###collection
+
+! 4/2/2020 https://www.imusic-school.com
+||www.imusic-school.com/wp-content/uploads/2019/08/Gif-EN-ims-metronome.gif$image
+||www.imusic-school.com/wp-content/uploads/2019/06/imujam-ad300x600-en*.jpg$image
+www.imusic-school.com##.ticker-active > li
+www.imusic-school.com##.ticker-active
+www.imusic-school.com##.ticker-container
+
+! 4/3/2020 https://www.techrepublic.com
+www.techrepublic.com##div.row:nth-of-type(2) > .col-12
+www.techrepublic.com##div.row:nth-of-type(3) > .col-12 > .row
+
+! 4/3/2020 https://word.tips.net
+word.tips.net##div.panel-primary.panel:nth-of-type(2)
+word.tips.net###lightbox_backdrop
+word.tips.net###pop1_s
+word.tips.net###pop1_b
+
+! 4/3/2020 https://www.politico.com
+www.politico.com##aside.db.cl-l.story-related:nth-of-type(2)
+www.politico.com##.widget-nav-list
+www.politico.com##.most-popular-tabbed-core.widget-content
+www.politico.com##.sticky-content.orient-vertical.user-tools
+www.politico.com##aside.story-related:nth-of-type(4)
+
+! 4/3/2020 https://www.salon.com
+www.salon.com##.left_outer_wrapper
+www.salon.com###adblockModal
+
+! 4/6/2020 https://www.afternerd.com
+www.afternerd.com##.after-post-box
+
+! 4/6/2020 https://www.geeksforgeeks.org
+||media.geeksforgeeks.org/wp-content/cdn-uploads/20200320235831/GFG-RT-DSA-COVID.png$image
+
+! 4/6/2020 https://stackabuse.com
+stackabuse.com##.sidebar.col-md-4 > div.widget:nth-of-type(1)
+
+! 4/6/2020 https://miniwebtool.com
+miniwebtool.com###allowads
+miniwebtool.com##.bookmark
+miniwebtool.com##.facebook
+miniwebtool.com##.twitter > .fa-twitter.fa
+miniwebtool.com###thecaption
+miniwebtool.com###adsside > div:nth-of-type(1)
+miniwebtool.com##div.w3-bar-item > form > input:nth-of-type(3)
+miniwebtool.com##.w3-hover-green.w3-button.w3-bar-item > .fa-search.fa
+miniwebtool.com##div:nth-of-type(6) > p
+
+! 4/12/2020 https://www.wolframalpha.com
+www.wolframalpha.com##._2HipS
+
+! 4/14/2020 https://mail.google.com
+mail.google.com##.bzQ.bzx.bzp
+
+! 4/15/2020 https://studyspanish.com
+||studyspanish.com/wp-content/uploads/2016/11/CDE_Box_Big-1.png$image
+
+! 4/16/2020 https://www.lifehack.org
+www.lifehack.org##div.container.article-page:nth-of-type(2) > .row > .d-lg-block.d-none.col-lg-5.col-xl-4 > .sidebar
+www.lifehack.org###section335885-first-overlay
+www.lifehack.org###section335885-column-first
+www.lifehack.org###step_128069
+
+! 4/16/2020 https://markmanson.net
+markmanson.net##.no-print.in-article-opt-in
+
+! 4/20/2020 https://catholicvolunteernetwork.org
+catholicvolunteernetwork.org###enhancedtextwidget-8
+catholicvolunteernetwork.org##div.cvn20-widget.widget:nth-of-type(7)
+catholicvolunteernetwork.org###enhancedtextwidget-3
+catholicvolunteernetwork.org###menu-item-102 > [href="https://catholicvolunteernetwork.org/donate/"]
+||catholicvolunteernetwork.org/wp-content/uploads/2018/06/Sisters-of-Providence_B.gif$image
+||catholicvolunteernetwork.org/wp-content/uploads/2020/01/GSV-gif.gif$image
+
+! 4/23/2020 https://waitbutwhy.com
+waitbutwhy.com###text-19 > .textwidget
+
+! 4/23/2020 https://cssauthor.com
+cssauthor.com##.et_social_icons_container
+
+! 4/26/2020 https://futurestud.io
+futurestud.io##.fs-background.text-center.aside-info
+
+! 4/26/2020 https://ffmpy.readthedocs.io
+ffmpy.readthedocs.io###rtd-tksnl63j
+
+! 4/27/2020 https://www.rubyguides.com
+www.rubyguides.com##.tve_lb_open.tve-scroll.tve_p_lb_background.tve-leads-track-lightbox-700.tl-lb-target > .tve_p_lb_overlay
+www.rubyguides.com##.tve-leads-triggered.cnt.bSe.tl-anim-bounce_in_down.tve-tl-anim.tve_p_lb_content
+
+! 4/29/2020 https://medium.com
+medium.com##.ai.ah.tj.ti.th.jt.jr.jp
+
+! 4/29/2020 https://np.reddit.com
+np.reddit.com##.login-required.add.active.option
+
+! 4/30/2020 https://www.famousbirthsdeaths.com
+www.famousbirthsdeaths.com###ai_widget-72
+
+! 5/4/2020 https://finance.yahoo.com
+finance.yahoo.com##li.Pos\(r\).js-stream-content:nth-of-type(1) > .Cf.smartphone_Bxsh\(streamBoxShadow\).smartphone_Px\(20px\).Py\(14px\)
+finance.yahoo.com###Aside
+
+! 5/4/2020 https://www.startpage.com
+www.startpage.com##.header__logo
+
+! 5/4/2020 https://www.businesstoday.in
+www.businesstoday.in##.bottomSliderSwipe
+www.businesstoday.in##.hidegap.mainBorromSliderSec
+www.businesstoday.in##.socilicon-area
+www.businesstoday.in###scroll-social
+www.businesstoday.in##.homeright
+www.businesstoday.in##.morestory.story-list-col
+
+! 5/4/2020 https://www.biblegateway.com
+||staticu.bgcdn.com/pub-bug-images/bug_niv_20200409.jpg$image
+www.biblegateway.com##.col-lg-12.sys-announce-wrapper
+www.biblegateway.com##li.public.resource-title.resource-item:nth-of-type(99)
+www.biblegateway.com##.subscribe-info
+www.biblegateway.com##.close-link.passage-resources-link
+www.biblegateway.com##li.expanded.resource-item.resource-type:nth-of-type(1)
+www.biblegateway.com##li.purchase.resource-title.resource-item:nth-of-type(2)
+
+! 5/5/2020 https://www.slader.com
+www.slader.com##.fixed-wrapper
+www.slader.com##.message.ui.dismissible.SolutionsBanner
+www.slader.com##.unbound.upload-solution.button
+
+! 5/7/2020 https://www.bartleby.com
+www.bartleby.com##.gQvGFM.styles__BannerMessageOuterContainer-sc-5epzjk-0
+
+! 5/8/2020 https://www.pdfcomplete.com
+www.pdfcomplete.com##.callout-container
+www.pdfcomplete.com##.callout-header
+
+! 5/8/2020 https://mail.google.com
+mail.google.com##.gmail_attr
+mail.google.com##td:nth-of-type(2) > font > b
+mail.google.com##.recipient > div
+mail.google.com##.message > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+mail.google.com##div.gmail_default:nth-of-type(1)
+mail.google.com##div.gmail_default:nth-of-type(3)
+mail.google.com##div.gmail_default:nth-of-type(4)
+mail.google.com##div.gmail_default:nth-of-type(6)
+mail.google.com##div.gmail_default:nth-of-type(9)
+mail.google.com##div.gmail_default:nth-of-type(8)
+mail.google.com##div.gmail_default:nth-of-type(7)
+mail.google.com##div.gmail_default:nth-of-type(2)
+
+! 5/9/2020 https://www.lifehack.org
+www.lifehack.org###section335866-first-overlay
+www.lifehack.org###section335866-column-first
+
+! 5/9/2020 https://userstyles.org
+userstyles.org##.android_button_button
+
+! 5/9/2020 https://old.reddit.com
+old.reddit.com##.premium-banner
+
+! 5/9/2020 https://www.reddit.com
+www.reddit.com##.Ab_CG1GZxb0mjtooTcgRC._1Pcih1cgtQusjyfxp7YPbP
+
+! 5/9/2020 https://www.wired.com
+www.wired.com##.expandable-growler-wrapper__expanded.expandable-growler-wrapper
+www.wired.com##.social-share-sidebar-component__content
+www.wired.com##.post-listing-component__list
+www.wired.com##.sidebar-component--is-sticky.sidebar-component--right.sidebar-component
+www.wired.com##.paywall-container-component--growler.paywall-container-component
+www.wired.com##.most-popular-side-bar-component
+
+! 5/9/2020 https://www.quora.com
+www.quora.com###modal-click-away
+www.quora.com##.qu-alignItems--flex-start.qu-justifyContent--center.qu-display--flex.qu-full.q-fixed
+
+! 5/10/2020 https://www.healthline.com
+www.healthline.com###ccpa-banner
+www.healthline.com##.css-11iztoc
+www.healthline.com##.css-6l6gc > .facebook.button-wrapper > .icon-hl-facebook.icon.button.facebook.css-yvmi2y
+www.healthline.com##.css-6l6gc > .twitter.button-wrapper > .icon-hl-twitter.icon.button.twitter.css-yvmi2y
+www.healthline.com##.icon-hl-flipboard.icon.button.flipboard.css-yvmi2y
+www.healthline.com##.css-6l6gc > .pinterest.button-wrapper > .icon-hl-pinterest.icon.button.pinterest.css-yvmi2y
+www.healthline.com##.css-6l6gc > .email.button-wrapper > .icon-hl-email.icon.button.email.css-yvmi2y
+
+! 5/13/2020 https://www.localconditions.com
+www.localconditions.com###optanon-popup-bg
+www.localconditions.com##.optanon-alert-box-bg
+www.localconditions.com##.optanon-alert-box-wrapper
+
+! 5/14/2020 https://www.dictionary.com
+www.dictionary.com##.e1iznl5f0.css-15s1xar.parsely-suggestions
+www.dictionary.com###quizzes
+www.dictionary.com##.e1bmjk383.css-6ugf0y.eb5scrb0.quizzes
+www.dictionary.com##.e1c17zzu3.css-1e5qer7-RibbonContent
+www.dictionary.com##.e1c17zzu2.css-xoa7b9-RibbonTop
+www.dictionary.com##.e1c17zzu5.css-15ruk80-PointedRibbonBottom
+www.dictionary.com##.e1fub8bm2.css-d5e8ah > .eljh6ml0.css-fhskcy
+www.dictionary.com###dcom-serp-a-top-300x250
+www.dictionary.com###DCOM_RIGHT_RAIL
+
+! 5/16/2020 https://time.com
+time.com##.right-rail.right-rail-recirc.clearfix.feed.component
+time.com##div.sticky-container:nth-of-type(2)
+
+! 5/20/2020 https://opensource.com
+opensource.com##.show.widget-block__left.widget-block.pane-bean-email-capture.pane-block.panel-pane
+opensource.com##.a2a_vertical_style.a2a_floating_style.a2a_kit_size_32.a2a_kit
+
+! 5/23/2020 https://www.wolframalpha.com
+www.wolframalpha.com##._xN7B
+www.wolframalpha.com##._3SW-P
+||www.wolframalpha.com/_next/static/images/cherryBackgroundNight_2H7E1YeA.png$image
+www.wolframalpha.com##._2mH2-._3KkkU.krBQN._2LJkH._10um4
