@@ -2,19 +2,15 @@
     "editor.snippetSuggestions": "top",
     "workbench.sideBar.location": "right",
     "C_Cpp.updateChannel": "Insiders",
-    "workbench.colorTheme": "Lukin Theme",
+    "workbench.colorTheme": "Zenburn Cold Gray - Cold - Asphalt",
     "emmet.triggerExpansionOnTab": true,
     "editor.minimap.enabled": false,
-    "files.autoSave":"onFocusChange",
-    
+    "files.autoSave": "onFocusChange",
     // Ruby support:
-
     "ruby.useLanguageServer": true,
     "ruby.lint": {
-      "ruby": true
+        "ruby": true
     },
-    
-
     // Multiple commands:
     "multiCommand.commands": [
         {
@@ -26,24 +22,27 @@
         }
     ],
     "spellchecker.ignoreWordsList": [],
-
     // vim
     "vim.handleKeys": {
-    "<C-c>": false,
-    "<C-s>": false,
-    "<C-w>": false,
-    "<C-b>": false,
-    "<C-n>": false,
-    "<C-a>": false,
-    "<C-j>": false,
-    "<C-f>": false,
-    "<C-x>": false,
-    "<C-v>": false
+        "<C-c>": false,
+        "<C-s>": false,
+        "<C-w>": false,
+        "<C-b>": false,
+        "<C-n>": false,
+        "<C-h>": false,
+        "<C-a>": false,
+        "<C-k>": false,
+        "<C-j>": false,
+        "<C-f>": false,
+        "<C-x>": false,
+        "<C-v>": false
     },
-
     "vim.normalModeKeyBindingsNonRecursive": [
         {
-            "before": ["Z", "Z"],
+            "before": [
+                "Z",
+                "Z"
+            ],
             "commands": [
                 ":wq"
             ]
@@ -52,7 +51,7 @@
     "gitlens.currentLine.enabled": false,
     "gitlens.hovers.currentLine.over": "line",
     "gitlens.hovers.enabled": false,
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "material-icon-theme",
     "breadcrumbs.enabled": true,
     "telemetry.enableTelemetry": false,
     "gitlens.advanced.telemetry.enabled": false,
@@ -62,11 +61,29 @@
     "editor.fontSize": 15,
     "editor.fontFamily": "Fira Code Medium",
     "editor.renderLineHighlight": "gutter",
-    "window.zoomLevel": -1,
+    "window.zoomLevel": 1,
     "bracket-pair-colorizer-2.showHorizontalScopeLine": false,
     "files.associations": {
         "*.txt": "plaintext"
     },
     "code-runner.ignoreSelection": true,
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
+    "arduino.commandPath": "arduino",
+    "arduino.path": "/snap/arduino/41",
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4 }",
+    "editor.occurrencesHighlight": false,
+    "editor.selectionHighlight": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "cmake.configureOnOpen": true,
+    "commentAnchors.tags.list": [
+        {
+            "tag": "ANCHOR",
+            "scope": "workspace",
+        },
+    ],
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"        
+    },
+    "python.languageServer": "Microsoft"
 }
