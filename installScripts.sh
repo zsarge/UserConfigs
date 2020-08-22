@@ -2,6 +2,9 @@
 # Purpose: Quickly set up the most important configurations on a new system.
 # (It's not elegant, but it works.)
 
+# Copy the next line without the `#` to download and run this script.
+# bash <(curl -s https://raw.githubusercontent.com/zsarge/UserConfigs/master/installScripts.sh)
+
 exists() {
   command -v "$1" >/dev/null 2>&1
 }
