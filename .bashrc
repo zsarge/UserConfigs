@@ -128,3 +128,8 @@ export EDITOR='vim'
     
 # export PATH="$HOME/.rbenv/bin:$PATH"
 # eval "$(rbenv init -)"
+
+# export GOPATH=$HOME/go
+export GOROOT=$HOME/go
+# export GOPATH='/mnt/c/Users/e22-sargentzw/OneDrive - Elder High School/Code/Go/packages'
+export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
