@@ -17,12 +17,13 @@ set listchars=eol:¬,tab:>-,nbsp:⎵,trail:~,space:_,extends:>,precedes:<
 set scrolloff=10
 set number
 
+" ruby autocomplete
+
 " bracket autocomplete
 " inoremap { {<CR>}<Esc>ko
 
-inoremap {<CR> {<CR>}<Esc>ko<tab>
-inoremap [<CR> [<CR>]<Esc>ko<tab>
-inoremap (<CR> (<CR>)<Esc>ko<tab>
+inoremap {<CR> {<CR>}<Esc>ko
+inoremap [<CR> [<CR>]<Esc>ko
 
 " Nerd tree settings
 "" rebind ctrl + n to toggle NERDTree
@@ -40,6 +41,9 @@ let mapleader = ","
 autocmd vimenter * colorscheme gruvbox
 set background=dark    " Setting dark mode
 
+" Fix green lines that show up on some terminal settings
+map <C-k> k<C-l>
+
 " Install Plug automatically
 if empty(glob('~/.vim/autoload/plug.vim'))
   silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
@@ -55,5 +59,6 @@ Plug 'preservim/nerdtree'
 Plug 'morhetz/gruvbox'
 Plug 'sheerun/vim-polyglot'
 Plug 'ntpeters/vim-better-whitespace'
+Plug 'farmergreg/vim-lastplace'
 
 call plug#end()
