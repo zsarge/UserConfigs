@@ -7,6 +7,7 @@ alias poweroff="echo dont do it"
 alias ls='ls --color'
 alias lls='ls --color'
 alias s='ls --color'
+alias ..s="cd ..;pwd;ls"
 alias lsn='ls --color=no'
 alias ll='ls -alF'
 alias lsa='ls -a'
@@ -51,12 +52,14 @@ alias ......='cd ../../../../..'
 
 # youtube-dl
 alias ytdl=youtube-dl
+alias ytdlmp4="youtube-dl -f mp4"
 alias ytvid='youtube-dl -o "%(title)s.%(ext)s"'
 alias ytmp3='youtube-dl --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s"'
 alias ytplaylist='youtube-dl --extract-audio --ignore-errors --audio-format mp3 -o "%(title)s.%(ext)s"'
 
 # convert * to mp3
 alias mkv2mp3='find . -type f -name "*.mkv" -exec bash -c '"'"'FILE="$1"; ffmpeg -i "${FILE}" -vn -c:a libmp3lame -y "${FILE%.mkv}.mp3";'"'"' _ '"'"'{}'"'"' \;'
+alias mkv2mp4='find . -type f -name "*.mkv" -exec bash -c '"'"'FILE="$1"; ffmpeg -i "${FILE}" -codec copy "${FILE%.*}.mp4"; '"'"' _ '"'"'{}'"'"' \;'
 alias webm2mp3='find . -type f -name "*.webm" -exec bash -c '"'"'FILE="$1"; ffmpeg -i "${FILE}" -vn -c:a libmp3lame -y "${FILE%.webm}.mp3";'"'"' _ '"'"'{}'"'"' \;'
 alias mp42mp3='find . -type f -name "*.mp4" -exec bash -c '"'"'FILE="$1"; ffmpeg -i "${FILE}" -vn -c:a libmp3lame -y "${FILE%.mp4}.mp3";'"'"' _ '"'"'{}'"'"' \;'
 alias wav2mp3='find . -type f -name "*.wav" -exec bash -c '"'"'FILE="$1"; ffmpeg -i "${FILE}" -vn -c:a libmp3lame -y "${FILE%.wav}.mp3";'"'"' _ '"'"'{}'"'"' \;'
@@ -104,27 +107,10 @@ ed() {
 	command ed -p\* "$@" -v; 
 }
 
-# get the size of a file
-size () {
-	du -h "$1"
-}
-
 # fix keyboard
 alias fixkeyboard='echo 2 | sudo tee /sys/module/hid_apple/parameters/fnmode'
 # check keyboard
 alias checkkeyboard='cat /sys/module/hid_apple/parameters/fnmode'
-
-# probably a bad idea - run bash commands in terminal - alternative to watch
-bash_watch () {
-	while true; do
-		"$@"
-		printf "\033[A"
-		sleep 3
-	done
-}
-
-# 'ranger' is hard to type
-alias r=ranger
 
 # tree does not fit on one page
 alias treel='tree | less'
@@ -132,7 +118,7 @@ alias treell='tree -L 2 | less'
 alias treelll='tree -L 3 | less'
 
 # new entry
-alias neo='python3 /home/sarge/Documents/AnoraksAlmanac/Code/main.py'
+alias neo='python3 "/mnt/c/Users/e22-sargentzw/OneDrive - Elder High School/Documents/AnoraksAlmanac/Code/main.py"'
 
 # tmux is a long word
 alias t=tmux
@@ -207,48 +193,10 @@ copyrealpath () {
 	rm ~/.realpath-buffer;
 }
 
-
-## The following are based on file structure of my 2020 Linux Machine
-
-# clean testing directory
-alias cleanUpTestingDir='mv TestingThings/* TestingThings/.NotInUse/'
-
-# update everything, and turn off the computer
-# backup files
-alias backup='time /usr/bin/python3 /home/sarge/Code/Python3/copyFiles.py'
-
-goodnight () {
-	clear;
-	echo "Goodnight."; 
-	sleep 1;
-	echo "Updating software, backing up files, and then suspending.";
-	echo " ";
-	sleep 1;
-	echo "Updating Software:";
-	sudo apt-get update && sudo apt-get -y upgrade;
-	echo -e "\n\nYou should be able to leave the computer during this time. \n\n";
-	backup;
-	echo "Suspending now.";
-	sleep 3;
-	sudo systemctl suspend;
-}
-
 # make autocomplete case insensitive
-update_autocomplete () {
+bash_autocomplete () {
 	# add option to /etc/inputrc to enable case-insensitive tab completion for all users
 	echo 'set completion-ignore-case On' | sudo tee -a /etc/inputrc
-}
-
-# go to flashdrive
-alias flashdrive='cd /media/sarge/Backup'
-
-# Compile a project I'm working on.
-b () {
-	cd /home/sarge/Code/CPP/serpent-game/build;
-	make;
-	echo -e "Output:\n";
-	./serpent.out;
-	cd /home/sarge/Code/CPP/serpent-game/src;
 }
 
 # dictionary alias
@@ -261,3 +209,19 @@ brief () {
 	wikit $@ | fold -w 80 | head -3
 }
 
+# check current os
+alias checkos='cat /etc/os-release'
+
+alias winopen='explorer.exe .'
+
+# create tmp folder with arguments
+tmp () {
+	cd /tmp;
+	mkcd $@;
+}
+
+# print formatted date when not suppled with arguments
+date () {
+	[ "$#" -eq 0 ] && set -- +'%a, %b %d, %Y  %r';
+	command date "$@";
+}
