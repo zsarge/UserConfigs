@@ -212,7 +212,12 @@ brief () {
 # check current os
 alias checkos='cat /etc/os-release'
 
-alias winopen='explorer.exe .'
+# for WSL usage, interface with explorer.exe
+alias windir='explorer.exe .';
+
+wopen () {
+	explorer.exe "$@"
+}
 
 # create tmp folder with arguments
 tmp () {
