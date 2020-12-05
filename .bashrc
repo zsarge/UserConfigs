@@ -132,4 +132,6 @@ export EDITOR='vim'
 # export GOPATH=$HOME/go
 export GOROOT=$HOME/go
 # export GOPATH='/mnt/c/Users/e22-sargentzw/OneDrive - Elder High School/Code/Go/packages'
-export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+# export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+export PATH="${GOROOT}/bin:${PATH}"
+
