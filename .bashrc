@@ -134,4 +134,14 @@ export GOROOT=$HOME/go
 # export GOPATH='/mnt/c/Users/e22-sargentzw/OneDrive - Elder High School/Code/Go/packages'
 # export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 export PATH="${GOROOT}/bin:${PATH}"
+export GOPATH="${GOROOT}/bin:${PATH}"
+
+# the following is stolen from https://askubuntu.com/a/87066
+
+# If ~/.inputrc doesn't exist yet: First include the original /etc/inputrc
+# so it won't get overriden
+if [ ! -a ~/.inputrc ]; then echo '$include /etc/inputrc' > ~/.inputrc; fi
+
+# Add shell-option to ~/.inputrc to enable case-insensitive tab completion
+echo 'set completion-ignore-case On' >> ~/.inputrc
 
