@@ -7,7 +7,6 @@ alias poweroff="echo dont do it"
 alias ls='ls --color'
 alias lls='ls --color'
 alias s='ls --color'
-alias ..s="cd ..;pwd;ls"
 alias lsn='ls --color=no'
 alias ll='ls -alF'
 alias lsa='ls -a'
@@ -43,7 +42,7 @@ alias diewindow='tmux kill-window -t'
 alias diewin='tmux kill-window -t'
 
 # No more cd ../../../..
-alias ..s='cd ..; ls'
+alias ..s='cd .. && pwd && ls'
 alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
@@ -57,7 +56,7 @@ alias ytvid='youtube-dl -o "%(title)s.%(ext)s"'
 alias ytmp3='youtube-dl --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s"'
 alias ytplaylist='youtube-dl --extract-audio --ignore-errors --audio-format mp3 -o "%(title)s.%(ext)s"'
 
-# convert * to mp3
+# convert * to mp3/mp4
 alias mkv2mp3='find . -type f -name "*.mkv" -exec bash -c '"'"'FILE="$1"; ffmpeg -i "${FILE}" -vn -c:a libmp3lame -y "${FILE%.mkv}.mp3";'"'"' _ '"'"'{}'"'"' \;'
 alias mkv2mp4='find . -type f -name "*.mkv" -exec bash -c '"'"'FILE="$1"; ffmpeg -i "${FILE}" -codec copy "${FILE%.*}.mp4"; '"'"' _ '"'"'{}'"'"' \;'
 alias webm2mp3='find . -type f -name "*.webm" -exec bash -c '"'"'FILE="$1"; ffmpeg -i "${FILE}" -vn -c:a libmp3lame -y "${FILE%.webm}.mp3";'"'"' _ '"'"'{}'"'"' \;'
@@ -107,10 +106,18 @@ ed() {
 	command ed -p\* "$@" -v; 
 }
 
+# get the size of a file
+size () {
+	du -h "$1"
+}
+
 # fix keyboard
 alias fixkeyboard='echo 2 | sudo tee /sys/module/hid_apple/parameters/fnmode'
 # check keyboard
 alias checkkeyboard='cat /sys/module/hid_apple/parameters/fnmode'
+
+# I'm lazy
+alias r=ranger
 
 # tree does not fit on one page
 alias treel='tree | less'
@@ -119,6 +126,7 @@ alias treelll='tree -L 3 | less'
 
 # new entry
 alias neo='python3 "/mnt/c/Users/e22-sargentzw/OneDrive - Elder High School/Documents/AnoraksAlmanac/Code/main.py"'
+# alias neo='python3 /home/sarge/Documents/AnoraksAlmanac/Code/main.py'
 
 # tmux is a long word
 alias t=tmux
@@ -194,7 +202,7 @@ copyrealpath () {
 }
 
 # make autocomplete case insensitive
-bash_autocomplete () {
+update_autocomplete () {
 	# add option to /etc/inputrc to enable case-insensitive tab completion for all users
 	echo 'set completion-ignore-case On' | sudo tee -a /etc/inputrc
 }
@@ -230,3 +238,12 @@ date () {
 	[ "$#" -eq 0 ] && set -- +'%a, %b %d, %Y  %r';
 	command date "$@";
 }
+
+alias project-ideas="vi /home/sarge/Documents/AnoraksAlmanac/Other/ProjectIdeas.md"
+
+alias update="sudo apt update"
+
+alias weather="curl http://wttr.in/cincinnati"
+alias shortweather="curl -s http://wttr.in/cincinnati | head -n 7"
+alias mon="curl http://wttr.in/cincinnati && echo -e \"\n\tTime:\n\t\t$(date)\""
+alias monmon="watch -n 60 --color \"curl -s http://wttr.in/cincinnati && echo \\\"\\n\\tTime:\\n\\t\\t\\\$(date)\\\"\""
