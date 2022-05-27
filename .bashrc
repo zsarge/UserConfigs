@@ -119,9 +119,35 @@ if ! shopt -oq posix; then
   fi
 fi
 
+# show time it took to complete last command
+
+function timer_start {
+  timer=${timer:-$SECONDS}
+}
+
+function timer_stop {
+  last_command_duration=$(($SECONDS - $timer))
+  limit=1
+  if [ "$last_command_duration" -gt "$limit" ]; then
+      timer_show="[$last_command_duration seconds] "
+  else
+      timer_show=""
+  fi
+  unset timer
+}
+
+trap 'timer_start' DEBUG
+
+if [ "$PROMPT_COMMAND" == "" ]; then
+  PROMPT_COMMAND="timer_stop"
+else
+  PROMPT_COMMAND="$PROMPT_COMMAND; timer_stop"
+fi
+
+
 # my stuff:
-export PS1="\[\033[38;5;51m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]@\[$(tput sgr0)\]\[\033[38;5;10m\]\h\[$(tput sgr0)\]\[\033[38;5;226m\] >> \W\[$(tput sgr0)\]\[\033[38;5;15m\]\\$\[$(tput sgr0)\] "
-#export PS1="\[\033[38;5;51m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]@\[$(tput sgr0)\]\[\033[38;5;10m\]\h\[$(tput sgr0)\]\[\033[38;5;226m\]\w\[$(tput sgr0)\]\[\033[38;5;15m\]\\$\[$(tput sgr0)\] " #<-BU
+export PS1='$timer_show\[\033[38;5;51m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]@\[$(tput sgr0)\]\[\033[38;5;10m\]\h\[$(tput sgr0)\]\[\033[38;5;226m\] >> \W\[$(tput sgr0)\]\[\033[38;5;15m\]\\$\[$(tput sgr0)\] '
+
 export EDITOR='vim'
 
 . ~/.local/share/lscolors.sh
@@ -145,3 +171,6 @@ if [ ! -a ~/.inputrc ]; then echo '$include /etc/inputrc' > ~/.inputrc; fi
 # Add shell-option to ~/.inputrc to enable case-insensitive tab completion
 echo 'set completion-ignore-case On' >> ~/.inputrc
 
+. "$HOME/.cargo/env"
+
+export GPG_TTY=$(tty)
