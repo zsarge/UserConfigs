@@ -108,19 +108,7 @@ if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
 
-# enable programmable completion features (you don't need to enable
-# this, if it's already enabled in /etc/bash.bashrc and /etc/profile
-# sources /etc/bash.bashrc).
-if ! shopt -oq posix; then
-  if [ -f /usr/share/bash-completion/bash_completion ]; then
-    . /usr/share/bash-completion/bash_completion
-  elif [ -f /etc/bash_completion ]; then
-    . /etc/bash_completion
-  fi
-fi
-
 # show time it took to complete last command
-
 function timer_start {
   timer=${timer:-$SECONDS}
 }
@@ -174,3 +162,10 @@ echo 'set completion-ignore-case On' >> ~/.inputrc
 . "$HOME/.cargo/env"
 
 export GPG_TTY=$(tty)
+# GoLang
+export GOROOT=/home/sarge/go
+export PATH=$GOROOT/bin:$PATH
+export GOPATH=/home/sarge/go/bin:/home/sarge/go/bin:/home/sarge/.cargo/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin
+export PATH=$GOPATH/bin:$PATH
+export PATH=/home/sarge/bin:$PATH
+export PATH=/home/sarge/.local/bin:$PATH
