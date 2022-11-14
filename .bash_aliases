@@ -1,8 +1,6 @@
 # Zack Sargent
 # Bash aliases
 
-alias poweroff="echo dont do it"
-
 # some more ls aliases
 alias ls='ls --color'
 alias lls='ls --color'
@@ -117,7 +115,7 @@ alias fixkeyboard='echo 2 | sudo tee /sys/module/hid_apple/parameters/fnmode'
 alias checkkeyboard='cat /sys/module/hid_apple/parameters/fnmode'
 
 # I'm lazy
-alias r=ranger
+alias r=ruby
 
 # tree does not fit on one page
 alias treel='tree | less'
@@ -125,8 +123,7 @@ alias treell='tree -L 2 | less'
 alias treelll='tree -L 3 | less'
 
 # new entry
-alias neo='python3 "/mnt/c/Users/e22-sargentzw/OneDrive - Elder High School/Documents/AnoraksAlmanac/Code/main.py"'
-# alias neo='python3 /home/sarge/Documents/AnoraksAlmanac/Code/main.py'
+alias neo='python3 "/home/sarge/Documents/AnoraksAlmanac/Code/main.py"'
 
 # tmux is a long word
 alias t=tmux
@@ -247,3 +244,4 @@ alias weather="curl http://wttr.in/cincinnati"
 alias shortweather="curl -s http://wttr.in/cincinnati | head -n 7"
 alias mon="curl http://wttr.in/cincinnati && echo -e \"\n\tTime:\n\t\t$(date)\""
 alias monmon="watch -n 60 --color \"curl -s http://wttr.in/cincinnati && echo \\\"\\n\\tTime:\\n\\t\\t\\\$(date)\\\"\""
+alias ipy=ipython
