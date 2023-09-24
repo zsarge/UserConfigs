@@ -60,5 +60,7 @@ Plug 'morhetz/gruvbox'
 Plug 'sheerun/vim-polyglot'
 Plug 'ntpeters/vim-better-whitespace'
 Plug 'farmergreg/vim-lastplace'
+Plug 'vim-autoformat/vim-autoformat'
+Plug 'triglav/vim-visual-increment'
 
 call plug#end()
