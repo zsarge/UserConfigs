@@ -138,7 +138,9 @@ export PS1='\[\033[38;5;30m\]$timer_show\[\033[38;5;51m\]\u\[$(tput sgr0)\]\[\03
 
 export EDITOR='vim'
 
-. ~/.local/share/lscolors.sh
+if test -f ~/.local/share/lscolors.sh; then
+  . ~/.local/share/lscolors.sh
+fi
     
 # export PATH="$HOME/.rbenv/bin:$PATH"
 # eval "$(rbenv init -)"
@@ -159,7 +161,9 @@ if [ ! -a ~/.inputrc ]; then echo '$include /etc/inputrc' > ~/.inputrc; fi
 # Add shell-option to ~/.inputrc to enable case-insensitive tab completion
 echo 'set completion-ignore-case On' >> ~/.inputrc
 
-. "$HOME/.cargo/env"
+if test -f "$HOME/.cargo/env"; then
+    . "$HOME/.cargo/env"
+fi
 
 export GPG_TTY=$(tty)
 # GoLang
